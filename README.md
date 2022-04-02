@@ -55,8 +55,8 @@ l.predict([[150.3,240.5,234.5]])
 ```
 
 ## Output:
-![multivariate linear regression model for sales prediction](./Screenshot%20(263).png)
 
+![Screenshot (263)](https://user-images.githubusercontent.com/93427208/161362884-8cc16045-fb86-45a7-aff1-9e1daed3d52e.png)
 
 ## Result:
 Thus the program to implement the multivariate linear regression model for sales prediction is written and verified using python programming.
